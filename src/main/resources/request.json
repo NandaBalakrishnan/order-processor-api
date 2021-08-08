@@ -38,7 +38,7 @@
     "tax": "75",
     "total": "975"
   },
-  "orderStatus": {
+  "orderDetailsStatus": {
     "orderRequestId": "189",
     "orderRequestStatus": "submitted"
   }
