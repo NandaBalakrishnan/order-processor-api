@@ -1,0 +1,45 @@
+{
+  "customerDetails": {
+    "customerId": 1396,
+    "customerName": "Nanda",
+    "customerContact": "5673433692"
+  },
+
+  "orderDetails": {
+    "orderId": 1246396,
+    "orderDate": "21-Sep-2020",
+    "orderTotal": "1453",
+    "paymentInfo": {
+      "paymentMethod": "NetBanking",
+      "billingAddress": "No. 8 Bazaar Lane , Mylapore,Chennai - 625011"
+    },
+    "shippingAddress": "No. 8 Bazaar Lane , Mylapore,Chennai - 625011"
+  },
+  "lineItems": [{
+    "itemNo": 1,
+    "itemId": "156",
+    "itemName": "FGD Handwash",
+    "itemPrice": "400"
+
+  },
+    {
+      "itemNo": 2,
+      "itemId": "137",
+      "itemName": "SRT Shampoo",
+      "itemPrice": "500"
+
+    }
+  ],
+
+  "orderSummary": {
+    "itemsTotalPrice": "900.00",
+    "packingCost": "0.00",
+    "totalBeforeTax": "900.00",
+    "tax": "75",
+    "total": "975"
+  },
+  "orderStatus": {
+    "orderRequestId": "189",
+    "orderRequestStatus": "submitted"
+  }
+}
